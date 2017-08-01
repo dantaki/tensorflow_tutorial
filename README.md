@@ -7,6 +7,7 @@
 * [Tutorials](#tutorials)
   * [Logistic Regression](#logistic-regression)
   * [Feed-Forward Network](#feed-forward-network)
+  * [2 Layer Convolutional Network](#2-layer-convolutional-network)
   * [Multilayer Convolutional Network](#multilayer-convolutional-network)
 
 ---
@@ -33,6 +34,8 @@ The above download command fixed my issue with TensorBoard not displaying proper
 #### [Logistic Regression](https://github.com/dantaki/tensorflow_tutorial/blob/master/ipynb/fundamentals_of_deep_learning_companion_logistic_regression.ipynb)
 
 #### [Feed Forward Network](https://github.com/dantaki/tensorflow_tutorial/blob/master/ipynb/fundamentals_of_deep_learning_companion_feed_forward_nextwork.ipynb)
+
+#### [2 Layer Convolution Network](https://github.com/dantaki/tensorflow_tutorial/blob/master/ipynb/fundamentals_of_deep_learning_companion_2layer_convolutional_network.ipynb)
 
 #### [Multilayer Convolutional Network](https://github.com/dantaki/tensorflow_tutorial/blob/master/ipynb/tensorflow_mulitlayer_convolution_network_tutorial.ipynb)
 
