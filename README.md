@@ -35,7 +35,7 @@ The above download command fixed my issue with TensorBoard not displaying proper
 
 #### [Feed Forward Network](https://github.com/dantaki/tensorflow_tutorial/blob/master/ipynb/fundamentals_of_deep_learning_companion_feed_forward_nextwork.ipynb)
 
-#### [2 Layer Convolution Network](https://github.com/dantaki/tensorflow_tutorial/blob/master/ipynb/fundamentals_of_deep_learning_companion_2layer_convolutional_network.ipynb)
+#### [2 Layer Convolutional Network](https://github.com/dantaki/tensorflow_tutorial/blob/master/ipynb/fundamentals_of_deep_learning_companion_2layer_convolutional_network.ipynb)
 
 #### [Multilayer Convolutional Network](https://github.com/dantaki/tensorflow_tutorial/blob/master/ipynb/tensorflow_mulitlayer_convolution_network_tutorial.ipynb)
 
