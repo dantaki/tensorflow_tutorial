@@ -30,10 +30,10 @@ The above download command fixed my issue with TensorBoard not displaying proper
 
 ### Tutorials
 
-#### [Logistic Regression]
+#### [Logistic Regression](https://github.com/dantaki/tensorflow_tutorial/blob/master/ipynb/fundamentals_of_deep_learning_companion_logistic_regression.ipynb)
 
-#### [Feed-Forward Network]
+#### [Feed Forward Network](https://github.com/dantaki/tensorflow_tutorial/blob/master/ipynb/fundamentals_of_deep_learning_companion_feed_forward_nextwork.ipynb)
 
-#### Multilayer Convolutional Network
+#### [Multilayer Convolutional Network](https://github.com/dantaki/tensorflow_tutorial/blob/master/ipynb/tensorflow_mulitlayer_convolution_network_tutorial.ipynb)
 
 
